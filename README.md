@@ -42,6 +42,7 @@ W drugiej części pracy wyestomowano model regresji łącznej, model efektów u
 Ostatecznie wybrano dwukierunkowy model efektów ustalonych postaci
 
 ? panel new_new_l_miesz const new_new_wynag new_new_drogi new_new_lud \par --time-dummies
+
 Model 34: Estymacja Ustalone efekty, z wykorzystaniem 128 obserwacji
 Włączono 16 jednostek danych przekrojowych
 Szereg czasowy długości = 8
