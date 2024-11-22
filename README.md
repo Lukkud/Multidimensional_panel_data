@@ -43,11 +43,11 @@ Ostatecznie wybrano dwukierunkowy model efektów ustalonych postaci
 
 ? panel new_new_l_miesz const new_new_wynag new_new_drogi new_new_lud \par --time-dummies
 
-Model 34: Estymacja Ustalone efekty, z wykorzystaniem 128 obserwacji \n
-Włączono 16 jednostek danych przekrojowych \n
-Szereg czasowy długości = 8 \n
-Zmienna zależna (Y): new_new_l_miesz \n
-Z powodu ścisłej współliniowości pominięto zmienną: dt_10 \n
+Model 34: Estymacja Ustalone efekty, z wykorzystaniem 128 obserwacji  
+Włączono 16 jednostek danych przekrojowych  
+Szereg czasowy długości = 8  
+Zmienna zależna (Y): new_new_l_miesz  
+Z powodu ścisłej współliniowości pominięto zmienną: dt_10  
 | | współczynnik | błąd standardowy | t-Studenta | wartość p |
 |-|------------|-------------------|------------|-----------|
 | const | 1.90948 | 0.445943 | 4.282 | 4.20e-05 *** |
@@ -62,32 +62,32 @@ Z powodu ścisłej współliniowości pominięto zmienną: dt_10 \n
 | dt_8 | −0.0617649 | 0.0159297 | −3.877 | 0.0002 *** |
 | dt_9 | −0.0178809 | 0.0130673 | −1.368 | 0.1742 |
 
-Średn.aryt.zm.zależnej 0.701042 
-Odch.stand.zm.zależnej 0.384841
-Suma kwadratów reszt 0.109870 
-Błąd standardowy reszt 0.032820
-LSDV R-kwadrat 0.994159 Within R-kwadrat 0.788423
-LSDV F(25, 102) 694.3895 Wartość p dla testu F 1.4e-102
+Średn.aryt.zm.zależnej 0.701042  
+Odch.stand.zm.zależnej 0.384841  
+Suma kwadratów reszt 0.109870  
+Błąd standardowy reszt 0.032820  
+LSDV R-kwadrat 0.994159 Within R-kwadrat 0.788423  
+LSDV F(25, 102) 694.3895 Wartość p dla testu F 1.4e-102  
 
-Logarytm wiarygodności 270.2469 
-Kryt. inform. Akaike'a −488.4939
-Kryt. bayes. Schwarza −414.3411 
-Kryt. Hannana-Quinna −458.3652
+Logarytm wiarygodności 270.2469  
+Kryt. inform. Akaike'a −488.4939  
+Kryt. bayes. Schwarza −414.3411   
+Kryt. Hannana-Quinna −458.3652  
 
-Autokorel.reszt - rho1 0.091738 Stat. Durbina-Watsona 1.461362
-Joint test on named regressors -
-Statystyka testu: F(3, 102) = 13.3097
-z wartością p = P(F(3, 102) > 13.3097) = 2.12466e-007
+Autokorel.reszt - rho1 0.091738 Stat. Durbina-Watsona 1.461362  
+Joint test on named regressors -  
+Statystyka testu: F(3, 102) = 13.3097  
+z wartością p = P(F(3, 102) > 13.3097) = 2.12466e-007  
 
-Test na zróżnicowanie wyrazu wolnego w grupach -
-Hipoteza zerowa: grupy posiadają wspólny wyraz wolny
-Statystyka testu: F(15, 102) = 34.0441
-z wartością p = P(F(15, 102) > 34.0441) = 6.50103e-033
+Test na zróżnicowanie wyrazu wolnego w grupach -  
+Hipoteza zerowa: grupy posiadają wspólny wyraz wolny  
+Statystyka testu: F(15, 102) = 34.0441  
+z wartością p = P(F(15, 102) > 34.0441) = 6.50103e-033  
 
-Test Walda na łączną istotność zmiennych 0-1 jednostek czasu -
-Hipoteza zerowa: No time effects
-Asymptotyczna statystyka testu: Chi-kwadrat(7) = 24.0529
-z wartością p = 0.00111523
+Test Walda na łączną istotność zmiennych 0-1 jednostek czasu -  
+Hipoteza zerowa: No time effects  
+Asymptotyczna statystyka testu: Chi-kwadrat(7) = 24.0529  
+z wartością p = 0.00111523  
 
 Model charakteryzuje się współczynnikiem determinacji 𝑅2=0.99 oraz wewnątrzgrupowym 𝑅2=0.79. Niestety w trakcie usuwania autokorelacji z modelu wyjściowego reszty utraciły charakter rozkładu normalnego, co powoduje, że nie ma możliwości oszacowania istotności zmiennych modelu.
 Analiza innych modeli (jednokierunkowych oraz dynamicznych) również nie przyniosła lepszych rezultatów.
