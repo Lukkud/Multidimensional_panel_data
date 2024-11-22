@@ -47,8 +47,8 @@ Włączono 16 jednostek danych przekrojowych
 Szereg czasowy długości = 8
 Zmienna zależna (Y): new_new_l_miesz
 Z powodu ścisłej współliniowości pominięto zmienną: dt_10
-| współczynnik | błąd standardowy | t-Studenta | wartość p |
---------------------------------------------------------------------
+| | współczynnik | błąd standardowy | t-Studenta | wartość p |
+|-|------------|-------------------|------------|-----------|
 | const | 1.90948 | 0.445943 | 4.282 | 4.20e-05 *** |
 | new_new_wynag | 0.0768222 | 0.0310217 | 2.476 | 0.0149 ** |
 | new_new_drogi | 0.0116117 | 0.00633673 | 1.832 | 0.0698 * |
