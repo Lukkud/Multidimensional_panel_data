@@ -43,11 +43,11 @@ Ostatecznie wybrano dwukierunkowy model efektów ustalonych postaci
 
 ? panel new_new_l_miesz const new_new_wynag new_new_drogi new_new_lud \par --time-dummies
 
-Model 34: Estymacja Ustalone efekty, z wykorzystaniem 128 obserwacji
-Włączono 16 jednostek danych przekrojowych
-Szereg czasowy długości = 8
-Zmienna zależna (Y): new_new_l_miesz
-Z powodu ścisłej współliniowości pominięto zmienną: dt_10
+Model 34: Estymacja Ustalone efekty, z wykorzystaniem 128 obserwacji \n
+Włączono 16 jednostek danych przekrojowych \n
+Szereg czasowy długości = 8 \n
+Zmienna zależna (Y): new_new_l_miesz \n
+Z powodu ścisłej współliniowości pominięto zmienną: dt_10 \n
 | | współczynnik | błąd standardowy | t-Studenta | wartość p |
 |-|------------|-------------------|------------|-----------|
 | const | 1.90948 | 0.445943 | 4.282 | 4.20e-05 *** |
